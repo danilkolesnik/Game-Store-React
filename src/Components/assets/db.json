@@ -1,0 +1,131 @@
+[
+  {
+    "id": 0,
+    "name": "10 Seconds Ninja",
+    "imageURL": "https://steampay.com/product/10-second-ninja-x.jpg?1526257061",
+    "price": 169,
+    "popularity": 5,
+    "category": 2
+  },
+  {
+    "id": 1,
+    "name": "Red Dead Redemption 2",
+    "imageURL": "https://steampay.com/product/red-dead-redemption-2.jpg?1571910656",
+    "price": 740,
+    "popularity": 9,
+    "category": 5
+  },
+  
+  {
+    "id": 2,
+    "name": "Fall Guys Ultimate Knockout",
+    "imageURL": "https://steampay.com/product/fall-guys-ultimate-knockout.jpg?1640617370",
+    "price": 120,
+    "popularity": 4,
+    "category": 2
+  },
+  {
+    "id": 3,
+    "name": "Hitman 2 Gold Edition",
+    "imageURL": "https://steampay.com/product/hitman-2-gold-edition.jpg?1640617367",
+    "price": 360,
+    "popularity": 8,
+    "category": 1
+  },
+  {
+    "id": 4,
+    "name": "Horizon Zero Dawn",
+    "imageURL": "https://steampay.com/product/horizon-zero-dawn-complete-edition.jpg?1596800436",
+    "price": 550,
+    "popularity": 7,
+    "category": 4
+  },
+  {
+    "id": 5,
+    "name": "Ori and the Blind Forest",
+    "imageURL": "https://steampay.com/product/ori-and-the-blind-forest-definitive-edition.jpg?1640616631",
+    "price": 135,
+    "popularity": 6,
+    "category": 5
+  },
+  {
+    "id": 6,
+    "name": "Midnight Legends",
+    "imageURL": "https://steampay.com/product/midnight-legends.jpg?1646170730",
+    "price": 99,
+    "popularity": 4,
+    "category": 3
+  },
+  {
+    "id": 7,
+    "name": "Stellaris Nemesis",
+    "imageURL": "https://steampay.com/product/stellaris-nemesis.jpg?1616710064",
+    "price": 169,
+    "popularity": 5,
+    "category": 2
+  },
+  {
+    "id": 8,
+    "name": "The Artifact",
+    "imageURL": "https://steampay.com/product/the-artifact.jpg?1574179263",
+    "price": 250,
+    "popularity": 6,
+    "category": 2
+  },
+  {
+    "id": 9,
+    "name": "Vampire: the Masquarade Bloodlines",
+    "imageURL": "https://steampay.com/product/vampire-the-masquerade-bloodlines-2.jpg?1553781698",
+    "price": 169,
+    "popularity": 8,
+    "category": 5
+  },
+  {
+    "id": 10,
+    "name": "Grand Theft Auto V",
+    "imageURL": "https://steampay.com/product/grand-theft-auto-v-great-white-shark-card-criminal-enterprise.jpg?1640617604",
+    "price": 760,
+    "popularity": 10,
+    "category": 1
+  },
+  {
+    "id": 11,
+    "name": "88 Heroes",
+    "imageURL": "https://steampay.com/product/88-heroes.jpg?1640617647",
+    "price": 85,
+    "popularity": 3,
+    "category": 2
+  },
+  {
+    "id": 12,
+    "name": "Need For Speed Heat",
+    "imageURL": "https://steampay.com/product/need-for-speed-heat.jpg?1573047830",
+    "price": 450,
+    "popularity": 7,
+    "category": 3
+  },
+  {
+    "id": 13,
+    "name": "Garry's Mod",
+    "imageURL": "https://steampay.com/product/garrys-mod.jpg?1526257068",
+    "price": 169,
+    "popularity": 7,
+    "category": 6
+  },
+  {
+    "id": 14,
+    "name": "Borderlands 3: Ultimate Edition",
+    "imageURL": "https://steampay.com/product/borderlands-3-ultimate-edition-epic.jpg?1614780776",
+    "price": 1178,
+    "popularity": 8,
+    "category": 1
+  },
+  {
+    "id": 15,
+    "name": "Borderlands 3: Ultimate Edition",
+    "imageURL": "https://steampay.com/product/death-stranding-directors-cut-upgrade.jpg?1648729943",
+    "price": 755,
+    "popularity": 6,
+    "category": 1
+  }
+]

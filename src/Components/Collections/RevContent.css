@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.caption {
+  margin-top: 40px;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-family: "Roboto", sans-serif;
+  text-shadow: 0 0 7px rgb(255, 57, 255);
+}
+
+.vit_container {
+  display: flex;
+  flex-direction: row;
+  gap: 80px;
+  justify-content: center;
+}
+
+.squad {
+  margin-top: 40px;
+  width: 275px;
+  height: 379px;
+  background: center/80% url("../Header/img/squad.jpg");
+  background-size: 110%;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.squad:hover {
+  transform: scale(1.1);
+}
+
+.orcs {
+  margin-top: 40px;
+  width: 275px;
+  height: 379px;
+  background: center/80% url("../Header/img/orcs-must-die-3.jpg");
+  background-size: 110%;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.orcs:hover {
+  transform: scale(1.1);
+}
+
+.core-keeper {
+  margin-top: 40px;
+  width: 275px;
+  height: 379px;
+  background: center/80% url("../Header/img/core-keeper.jpg");
+  background-size: 110%;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.core-keeper:hover {
+  transform: scale(1.1);
+}
+
+.graveyard-keeper {
+  margin-top: 40px;
+  width: 275px;
+  height: 379px;
+  background: center/80% url("../Header/img/graveyard-keeper.jpg");
+  background-size: 110%;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.graveyard-keeper:hover {
+  transform: scale(1.1);
+}

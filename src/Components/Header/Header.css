@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
+
+/* .container {
+  background-color: rgb(4, 1, 42);
+  width: 100%;
+  height: 100vh;
+} */
+
+.background {
+  background: url("./img/background.jpg");
+  width: 100%;
+  height: 50vh;
+}
+
+.ui_stuff {
+  display: flex;
+  gap: 40px;
+}
+
+.about-caption {
+  cursor: pointer;
+  text-decoration: none;
+  padding-top: 25px;
+  font-size: 25px;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  color: aliceblue;
+  transition: transform 0.2s;
+}
+.about-caption:hover {
+  transform: scale(1.1);
+}
+
+.user-caption {
+  cursor: pointer;
+  text-decoration: none;
+  padding-top: 25px;
+  font-size: 25px;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  color: aliceblue;
+  transition: transform 0.2s;
+}
+
+.user-caption:hover {
+  transform: scale(1.1);
+}
+
+.nav {
+  padding: 0 25px;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  background-color: rgb(187, 15, 164);
+  height: 80px;
+  box-shadow: 0 0 10px rgb(225, 104, 255);
+}
+
+.main-caption {
+  margin: 0;
+  padding-top: 18px;
+  padding-left: 20px;
+  font-family: "Quicksand", sans-serif;
+  color: aliceblue;
+}
+
+.bucket-caption {
+  cursor: pointer;
+  text-decoration: none;
+  padding-top: 25px;
+  font-size: 25px;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  color: aliceblue;
+  transition: transform 0.2s;
+}
+
+.bucket-caption:hover {
+  transform: scale(1.1);
+}
